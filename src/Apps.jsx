@@ -7,6 +7,9 @@ const App = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae
           adipisci voluptatem tenetur.
         </p>
+        <button className=" text-white px-2 py-1.5 font-md text-sm my-2 bg-blue-600 rounded-lg hover:bg-blue-500 cursor:pointer">
+          Learn More ↗️
+        </button>
       </div>
     </>
   );
